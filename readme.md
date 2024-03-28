@@ -1,4 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=shark)
 ```javascript
 const joongHeon = {
     nickname: "Honey Bee",
