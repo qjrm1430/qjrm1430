@@ -18,4 +18,4 @@ const joongHeon = {
     currentFocus: ["AI", "Blockchain"]
 };
 ```
-<a href="https://myhoneyhouse.tistory.com" target="_blank"><img src="https://img.shields.io/badge/HoneyComb-000000?style=social&logo=tistory"/></a>
+<a href="https://myhoneyhouse.tistory.com" target="_blank"><img src="https://img.shields.io/badge/HoneyComb-000000?style=social&logo=tistory"/></a><br>
