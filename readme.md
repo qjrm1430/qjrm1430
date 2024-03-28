@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=shark)
 ```javascript
-const anmol = {
+const joongHeon = {
+    nickname: "Honey Bee",
     pronouns: "He" | "Him",
     askMeAbout: ["Pioneer", "Challenger", "People Person"],
     technologies: {
@@ -14,8 +15,8 @@ const anmol = {
         databases: ["mongo", "MySql"],
         experienced: ["AWS S3/IAM", "C/C++", "Java", "Nest.js", "Neo4J", "vis.js", "Figma", "Encase"]
     },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentFocus: "AI, Blockchain",
+    architecture: ["Progressive web applications", "Single page applications"],
+    currentFocus: ["AI", "Blockchain"]
 };
 ```
 <a href="https://myhoneyhouse.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=social&logo=tistory"/></a>
