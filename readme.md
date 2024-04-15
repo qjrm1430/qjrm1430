@@ -5,7 +5,7 @@ const joongHeon = {
     askMeAbout: ["Pioneer", "Challenger", "People Person"],
     technologies: {
         develop: ["Vue.js", "Next.js", "React", "TypeScript", "JavaScript", "Python", "Solidity"],
-        styling: ["Tailwind", "SCSS", "Vuetify", "Quasar", "Chakra UI"]
+        styling: ["Tailwind", "SCSS", "Vuetify", "Quasar", "Chakra UI"],
         tools: {
             devOps: ["AWS EC2", "Docker", "Nginx", "Git/Github", "Linux", "VS Code"],
             collaboration: ["Notion.so", "JIRA", "Slack", "Asana"],
