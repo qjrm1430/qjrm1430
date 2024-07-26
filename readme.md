@@ -5,16 +5,14 @@ const joongHeon = {
     askMeAbout: ["Pioneer", "Challenger", "People Person"],
     technologies: {
         develop: ["Vue.js", "Next.js", "React", "TypeScript", "JavaScript", "Python", "Solidity"],
-        styling: ["Tailwind", "SCSS", "Vuetify", "Quasar", "Chakra UI"],
+        styling: ["Tailwind", "SCSS", "Vuetify"],
         tools: {
-            devOps: ["AWS EC2", "Docker", "Nginx", "Git/Github", "Linux", "VS Code"],
-            collaboration: ["Notion.so", "JIRA", "Slack", "Asana"],
-            adobe: ["XD", "Premier Pro"]
+            devOps: ["AWS EC2", "Docker", "VS Code"],
+            collaboration: ["Notion", "JIRA", "Slack", "Asana"],
         },
         databases: ["mongo", "MySql"],
-        experienced: ["AWS S3/IAM", "C/C++", "Java", "Nest.js", "Neo4J", "vis.js", "Figma", "Encase"]
+        experienced: ["AWS S3/IAM", "C/C++", "Nest.js", "Figma"]
     },
-    architecture: ["Progressive web applications", "Single page applications"],
     currentFocus: ["AI", "Blockchain"],
     favorite: ["Coffee", "Liquor"]
 };
