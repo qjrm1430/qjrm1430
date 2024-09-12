@@ -1,17 +1,16 @@
 ```javascript
 const joongHeon = {
-    nickname: "Honey Bee",
+    nickname: "Hon2y B22",
     pronouns: "He" | "Him",
     askMeAbout: ["Pioneer", "Challenger", "People Person"],
     technologies: {
-        develop: ["Vue.js", "Next.js", "React", "TypeScript", "JavaScript", "Python", "Solidity"],
-        styling: ["Tailwind", "SCSS", "Vuetify"],
+        develop: ["Python", "TypeScript", "JavaScript", "Solidity"],
+        styling: ["TailwindCSS", "SCSS", "Vuetify"],
         tools: {
-            devOps: ["AWS EC2", "Docker", "VS Code"],
-            collaboration: ["Notion", "JIRA", "Slack", "Asana"],
+            devOps: ["AWS", "Docker", "VS Code"],
+            collaboration: ["Notion", "JIRA", "Slack", "Asana", "Adobe XD"],
         },
         databases: ["mongo", "MySql"],
-        experienced: ["AWS S3/IAM", "C/C++", "Nest.js", "Figma"]
     },
     currentFocus: ["AI", "Blockchain"],
     favorite: ["Coffee", "Liquor"]
