@@ -4,13 +4,14 @@ const joongHeon = {
     pronouns: "He" | "Him",
     askMeAbout: ["Pioneer", "Challenger", "People Person"],
     technologies: {
-        develop: ["Python", "TypeScript", "JavaScript", "Solidity"],
+        language: ["Python", "TypeScript", "JavaScript", "Solidity"],
         styling: ["TailwindCSS", "SCSS", "Vuetify"],
+        framework: ["Django", "Next.js", "Vue.js", "Nest.js"],
         tools: {
             devOps: ["AWS", "Docker", "VS Code"],
             collaboration: ["Notion", "JIRA", "Slack", "Asana", "Adobe XD"],
         },
-        databases: ["mongo", "MySql"],
+        databases: ["Mongo", "MySql"],
     },
     currentFocus: ["AI", "Blockchain"],
     favorite: ["Coffee", "Liquor"]
