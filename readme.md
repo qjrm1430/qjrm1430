@@ -3,15 +3,15 @@ const joongHeon = {
     nickname: "Hon2y B22",
     pronouns: "He" | "Him",
     askMeAbout: ["Pioneer", "Challenger", "People Person"],
-    technologies: {
+    technology: {
         language: ["Python", "TypeScript", "JavaScript", "Solidity"],
         styling: ["TailwindCSS", "SCSS", "Vuetify"],
-        framework: ["Django", "Next.js", "Vue.js", "Nest.js"],
-        tools: {
-            devOps: ["AWS", "Docker", "VS Code"],
-            collaboration: ["Notion", "JIRA", "Slack", "Asana", "Adobe XD"],
+        framework: ["Django", "FastAPI", "Next.js", "Vue.js", "Nest.js"],
+        devOps: {
+            tool: ["AWS", "Docker", "VS Code"],
+            collaboration: ["Notion", "JIRA", "Slack", "Asana"],
         },
-        databases: ["Mongo", "MySql"],
+        database: ["MySQL", "Mongo", "Neo4j"],
     },
     currentFocus: ["AI", "Blockchain"],
     favorite: ["Coffee", "Liquor"]
