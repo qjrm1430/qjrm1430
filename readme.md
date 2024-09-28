@@ -1,19 +1,15 @@
 ```javascript
 const joongHeon = {
     nickname: "Hon2y B22",
-    pronouns: "He" | "Him",
-    askMeAbout: ["Pioneer", "Challenger", "People Person"],
+    pronoun: "He" | "Him",
+    askMeAbout: ["Pioneer", "Challenger", "PeoplePerson"],
     technology: {
-        language: ["Python", "TypeScript", "JavaScript", "Solidity"],
-        styling: ["TailwindCSS", "SCSS", "Vuetify"],
-        framework: ["Django", "FastAPI", "Next.js", "Vue.js", "Nest.js"],
-        devOps: {
-            tool: ["AWS", "Docker", "VS Code"],
-            collaboration: ["Notion", "JIRA", "Slack", "Asana"],
-        },
-        database: ["MySQL", "Mongo", "Neo4j"],
+        language: ["Python", "JavaScript", "TypeScript", "Solidity"],
+        framework: ["Django", "FastAPI", "ApacheSpark", "Vue.js", "Next.js", "Nest.js"],
+        devOps: ["AWS", "Docker", 'Git/Github', "Notion.so", "Slack", "Jira", "Asana"],
+        databases: ["MySQL", "MongoDB", "Neo4j", "PostgreSQL"],
     },
-    currentFocus: ["AI", "Blockchain"],
+    currentFocus: ["AI", "BlockChain"],
     favorite: ["Coffee", "Liquor"]
 };
 ```
