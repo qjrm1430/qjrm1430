@@ -1,3 +1,5 @@
+[![qjrm1430's GitHub stats](https://github-readme-stats.vercel.app/api?username=qjrm1430)](https://github.com/anuraghazra/github-readme-stats)
+
 ```javascript
 const joongHeon = {
     nickname: "Hon2y B22",
