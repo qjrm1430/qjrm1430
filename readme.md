@@ -1,4 +1,4 @@
-[![qjrm1430's GitHub stats](https://github-readme-stats.vercel.app/api?username=qjrm1430)](https://github.com/anuraghazra/github-readme-stats)
+![qjrm1430's GitHub stats](https://github-readme-stats.vercel.app/api?username=qjrm1430&show_icons=true&theme=tokyonight)
 
 ```javascript
 const joongHeon = {
