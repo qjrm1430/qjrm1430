@@ -16,4 +16,4 @@ const joongHeon = {
 };
 ```
 
-<a href="https://honeycomb.oopy.io/" target="_blank"><img src="https://img.shields.io/badge/기술 블로그-000000?style=social&logo=notion"/></a><br>
+<a href="https://www.hon2yt2ch.life/" target="_blank"><img src="https://img.shields.io/badge/기술 블로그-000000?style=social&logo=notion"/></a><br>
