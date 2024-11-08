@@ -4,7 +4,7 @@
 const joongHeon = {
     nickname: "Hon2y B22",
     pronoun: "He" | "Him",
-    askMeAbout: ["Pioneer", "Challenger", "PeoplePerson"],
+    askMeAbout: ["Pioneer", "Challenger", "PeoplePerson", "R&D],
     technology: {
         language: ["Python", "JavaScript", "TypeScript", "Solidity"],
         framework: ["Django", "FastAPI", "ApacheSpark", "Vue.js", "Next.js", "Nest.js"],
