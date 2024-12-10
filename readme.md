@@ -7,7 +7,7 @@ joongheon_park = {
     ask_me_about: ["Pioneer", "Challenger", "PeoplePerson", "R&D"],
     technology: {
         language: ["Python", "JavaScript", "TypeScript", "Solidity", "C++"],
-        data_framework: ["LangChain", "LangGraph", "Ray", "Optuna", Apache Spark],
+        data_framework: ["LangChain", "LangGraph", "Ray", "Optuna", "Apache Spark"],
         web_framework: ["Django", "FastAPI", "Streamlit", "Vue.js", "Next.js", "Nest.js"],
         ml_library: ["Django", "FastAPI", "Streamlit", "Vue.js", "Next.js", "Nest.js"],
         dev_ops: ["LangSmith", "AWS", "Docker", 'Git/Github', "Notion.so", "Slack", "Jira", "Asana"],
