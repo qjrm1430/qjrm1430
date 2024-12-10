@@ -1,17 +1,19 @@
 ![qjrm1430's GitHub stats](https://github-readme-stats.vercel.app/api?username=qjrm1430&show_icons=true&theme=tokyonight)
 
-```javascript
-const joongHeon = {
+```python
+joongheon_park = {
     nickname: "Hon2y B22",
     pronoun: "He" | "Him",
-    askMeAbout: ["Pioneer", "Challenger", "PeoplePerson", "R&D"],
+    ask_me_about: ["Pioneer", "Challenger", "PeoplePerson", "R&D"],
     technology: {
-        language: ["Python", "JavaScript", "TypeScript", "Solidity"],
-        framework: ["Django", "FastAPI", "ApacheSpark", "Vue.js", "Next.js", "Nest.js"],
-        devOps: ["AWS", "Docker", 'Git/Github', "Notion.so", "Slack", "Jira", "Asana"],
-        databases: ["MySQL", "MongoDB", "Neo4j", "PostgreSQL"],
+        language: ["Python", "JavaScript", "TypeScript", "Solidity", "C++"],
+        data_framework: ["LangChain", "LangGraph", "Ray", "Optuna", Apache Spark],
+        web_framework: ["Django", "FastAPI", "Streamlit", "Vue.js", "Next.js", "Nest.js"],
+        ml_library: ["Django", "FastAPI", "Streamlit", "Vue.js", "Next.js", "Nest.js"],
+        dev_ops: ["LangSmith", "AWS", "Docker", 'Git/Github', "Notion.so", "Slack", "Jira", "Asana"],
+        databases: ["MongoDB", "MySQL", "PostgreSQL", "Neo4j"],
     },
-    currentFocus: ["AI", "BlockChain"],
+    current_focus: ["LLM", "RAG", "Cloud Infra"],
     favorite: ["Coffee", "Liquor"]
 };
 ```
