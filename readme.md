@@ -20,7 +20,5 @@ joongheon_park = {
 };
 ```
 
-<a href="https://www.hon2yt2ch.life/" target="_blank"><img src="https://img.shields.io/badge/기술 블로그-000000?style=social&logo=notion"/></a><br>
-
 
 ![KakaoTalk_20241217_172354967](https://github.com/user-attachments/assets/ec0c679e-f0f9-47ec-b175-a6499c387015)
