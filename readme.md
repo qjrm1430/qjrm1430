@@ -15,8 +15,8 @@ joongheon_park = {
         dev_ops: ["LangSmith", "AWS", "Docker", 'Git/Github', "Notion.so", "Slack", "Jira", "Asana"],
         databases: ["MongoDB", "MySQL", "PostgreSQL", "Neo4j"],
     },
-    current_focus: ["LLM", "RAG", "Cloud Infra"],
-    favorite: ["Coffee", "Liquor"]
+    current_focus: ["Agentic AI", "Autonomous", "Cloud Infra"],
+    favorite: ["Coffee", "Whiskey"]
 };
 ```
 
